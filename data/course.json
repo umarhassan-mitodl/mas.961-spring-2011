@@ -35,6 +35,7 @@
     "website": "mas-961-networks-complexity-and-its-applications-spring-2011"
   },
   "course_title": "Networks, Complexity and Its Applications",
+  "hide_download": true,
   "course_description": "Networks are a ubiquitous way to represent complex systems, including those in the social and economic sciences. The goal of the course is to equip students with conceptual tools that can help them understand complex systems that emerge in both nature and social systems. This is a course intended for a general audience and will discuss applications of networks and complexity to diverse systems, including epidemic spreading, social networks and the evolution of economic development.\n",
   "department_numbers": [
     "MAS"
@@ -45,6 +46,7 @@
     "content": "ba61a6d8-069c-5fad-88a1-065686b4a1c9",
     "website": "mas-961-networks-complexity-and-its-applications-spring-2011"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Projects with Examples"
