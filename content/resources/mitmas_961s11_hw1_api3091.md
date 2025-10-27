@@ -5,8 +5,6 @@ description: Problem set on percolation in random networks, Eulerian and planar 
 file: /courses/mas-961-networks-complexity-and-its-applications-spring-2011/f920fd478ccff18b4f63a50e5bd309a7_MITMAS_961S11_HW1_API3091.pdf
 file_size: 546322
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

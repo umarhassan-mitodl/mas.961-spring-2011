@@ -4,8 +4,6 @@ description: This resource includes images visuals on 1893 Chicago world's fair.
 file: /courses/mas-961-networks-complexity-and-its-applications-spring-2011/0af196f50f07f966f5b5a72034846aa8_MITMAS_961S11_VisualFinal.pdf
 file_size: 732991
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

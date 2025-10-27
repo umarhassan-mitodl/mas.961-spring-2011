@@ -5,8 +5,6 @@ description: This resource contains an analysis of the manhattan project scienti
 file: /courses/mas-961-networks-complexity-and-its-applications-spring-2011/2c59817bd3a16c7a0a310831b98bc476_MITMAS_961S11_Networkpaper.pdf
 file_size: 715332
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
